@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Domain", "SpaUserControl.Domain\SpaUserControl.Domain.csproj", "{85BCF3AC-F396-4D05-856B-8B69FDC4C46A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Common", "SpaUserControl.Common\SpaUserControl.Common.csproj", "{070D2387-0D07-4714-AC57-50AD9A17B8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Infrastructure", "SpaUserControl.Infrastructure\SpaUserControl.Infrastructure.csproj", "{90050AC4-A7A4-4D23-A1B1-9050FDCC0A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Startup", "SpaUserControl.Startup\SpaUserControl.Startup.csproj", "{FEF6882B-222A-4593-A323-11593EB6089C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Business", "SpaUserControl.Business\SpaUserControl.Business.csproj", "{2D769083-872C-4272-AFA4-4FA09F738AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Spammer", "SpaUserControl.Spammer\SpaUserControl.Spammer.csproj", "{4E843D1E-EB51-4985-B769-E10BFF4E1E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Api", "SpaUserControl.Api\SpaUserControl.Api.csproj", "{9BF3A5DF-090E-44E8-848A-57269C4927AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85BCF3AC-F396-4D05-856B-8B69FDC4C46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BCF3AC-F396-4D05-856B-8B69FDC4C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BCF3AC-F396-4D05-856B-8B69FDC4C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BCF3AC-F396-4D05-856B-8B69FDC4C46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070D2387-0D07-4714-AC57-50AD9A17B8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070D2387-0D07-4714-AC57-50AD9A17B8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070D2387-0D07-4714-AC57-50AD9A17B8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070D2387-0D07-4714-AC57-50AD9A17B8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90050AC4-A7A4-4D23-A1B1-9050FDCC0A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90050AC4-A7A4-4D23-A1B1-9050FDCC0A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90050AC4-A7A4-4D23-A1B1-9050FDCC0A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90050AC4-A7A4-4D23-A1B1-9050FDCC0A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF6882B-222A-4593-A323-11593EB6089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF6882B-222A-4593-A323-11593EB6089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF6882B-222A-4593-A323-11593EB6089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF6882B-222A-4593-A323-11593EB6089C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D769083-872C-4272-AFA4-4FA09F738AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D769083-872C-4272-AFA4-4FA09F738AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D769083-872C-4272-AFA4-4FA09F738AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D769083-872C-4272-AFA4-4FA09F738AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E843D1E-EB51-4985-B769-E10BFF4E1E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E843D1E-EB51-4985-B769-E10BFF4E1E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E843D1E-EB51-4985-B769-E10BFF4E1E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E843D1E-EB51-4985-B769-E10BFF4E1E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF3A5DF-090E-44E8-848A-57269C4927AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF3A5DF-090E-44E8-848A-57269C4927AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF3A5DF-090E-44E8-848A-57269C4927AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF3A5DF-090E-44E8-848A-57269C4927AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
