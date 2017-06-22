@@ -1,0 +1,12 @@
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\bin\Release\SpaUserControl.Common.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\bin\Release\SpaUserControl.Common.pdb
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\bin\Release\pt-BR\SpaUserControl.Common.resources.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.csprojResolveAssemblyReference.cache
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.Resources.Errors.resources
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.Resources.Messages.resources
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.Resources.Errors.pt-BR.resources
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.Resources.Messages.pt-BR.resources
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.csproj.GenerateResource.Cache
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\pt-BR\SpaUserControl.Common.resources.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Common\obj\Release\SpaUserControl.Common.pdb

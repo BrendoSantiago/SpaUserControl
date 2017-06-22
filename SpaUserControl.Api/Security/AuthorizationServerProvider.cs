@@ -51,7 +51,7 @@ namespace SpaUserControl.Api.Security
 
                 context.Validated(identity);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 context.SetError("invalid_grant", Errors.InvalidCredentials);
             }

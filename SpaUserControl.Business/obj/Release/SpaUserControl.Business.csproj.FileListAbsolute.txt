@@ -1,0 +1,14 @@
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Business.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Business.pdb
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Common.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Domain.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Infrastructure.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\EntityFramework.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Common.pdb
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Domain.pdb
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\SpaUserControl.Infrastructure.pdb
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\EntityFramework.xml
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\bin\Release\pt-BR\SpaUserControl.Common.resources.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\obj\Release\SpaUserControl.Business.csprojResolveAssemblyReference.cache
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\obj\Release\SpaUserControl.Business.dll
+C:\Users\brendo.santiago\Documents\Visual Studio 2015\Projects\SpaUserControl\SpaUserControl.Business\obj\Release\SpaUserControl.Business.pdb
